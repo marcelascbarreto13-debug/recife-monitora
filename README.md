@@ -1,4 +1,4 @@
-# Recife Monitora — Análise de Dados
+# Recife Monitora - Análise de Dados
 
 Projeto desenvolvido na disciplina de Projetos 5 do curso de Gestão de Tecnologia da Informação da CESAR School.
 
